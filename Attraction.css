@@ -1,0 +1,302 @@
+body{
+font-family: arial;
+}
+/* header starts here */
+
+
+#logo1{
+	height:170px;
+	width:350px;
+	top:25px;
+
+}
+#map{
+    left:400px;
+	height:110px;
+	width:100px;
+	top:20px;
+	position:absolute;
+
+}
+#map1{
+   
+	height:160px;
+	width:150px;
+	top:24px;
+	
+
+}
+#txtsearch{
+	width:400px;
+	height:30px;
+	left:600px;
+	top:87px;
+	border-radius:15px;
+	position:absolute;
+}
+#txtsearch:hover{
+background-color:#00b386;
+}
+#txtsearch1{
+	width:400px;
+	height:30px;
+	left:30px;
+	top:2410px;
+	border-radius:15px;
+	position:absolute;
+
+}
+#searchbar1{
+	width:80px;
+	height:32px;
+	left:430px;
+	top:2410px;
+	position:absolute;
+	background-color:#a3c2c2;
+	color:black;
+	border-radius:10px;
+	transition:background-color 1s ease 0s;
+}
+
+#searchbar{
+	width:80px;
+	height:32px;
+	left:1000px;
+	top:85px;
+	position:absolute;
+	background-color:#a3c2c2;
+	color:black;
+	border-radius:10px;
+	transition:background-color 1s ease 0s;
+}
+
+#searchbar:hover{
+background-color:#000000;
+color:white;
+}
+#logo{
+top:780px;
+left:326px;
+position:absolute;
+}
+#logo:hover{
+width:55%;
+height:75%;
+transition:1s ease 0s;
+}
+#logo3{
+top:280px;
+left:325px;
+position:absolute;
+}
+#logo3:hover{
+width:55%;
+height:75%;
+transition:1s ease 0s;
+}
+#button1{
+	color:#000000;
+	left:100px;
+	padding:10px;
+	width:80px;
+	height:35px;
+	text-align:center;
+	background-color:#a3c2c2;
+	border-radius:30px;
+	border-left:1px;
+	border:1px solid #ffffff;
+	
+}
+#button1:hover{
+	background-color:#00b386;
+	transition:background-color 1s ease 0s;
+	border-radius:10px;
+}
+#button2{
+	
+	left:50px;
+	color:black;
+	padding:10px;
+	width:100px;
+	height:35px;
+	text-align:center;
+	background-color:#a3c2c2;
+	border-radius:30px;
+	border:1px solid #ffffff;
+	
+}
+#button2:hover{
+	background-color:#adebeb;
+	transition:background-color 1s ease 0s;
+	border-radius:10px;
+}
+#button3{
+	
+	left:50px;
+	color:black;
+	padding:10px;
+	width:100px;
+	height:35px;
+	text-align:left				;
+	background-color:#a3c2c2;
+	border-radius:30px;
+	border:1px solid #ffffff;
+	
+}
+#button3:hover{
+	background-color:#adebeb;
+	transition:background-color 1s ease 0s;
+	border-radius:10px;
+}
+#mr{
+
+	color:white;
+	position:absolute;
+	left:1050px;
+	top:1320px;
+    
+    
+    
+}
+#ben{
+
+	
+    height: 1100px;
+    background-image:url(Puerto.jpg); /* For browsers that do not support gradients */
+    background: linear-gradient(#66e0ff, #66e0ff); /* Standard syntax (must be last) */
+
+}
+#ben1{
+    height: 10px;
+    background: red; /* For browsers that do not support gradients */
+    background: linear-gradient(#009999,#001a1a ); /* Standard syntax (must be last) */
+}
+#ben2{
+	
+    height: 10px;
+    background: #ff3333; 
+    
+}
+#sol{
+	top:8000px;
+    height:190px;
+    background: #001a1a; /* For browsers that do not support gradients */
+    background: linear-gradient(#333); /* Standard syntax (must be last) */
+}
+#sol2{
+	
+    background: linear-gradient(#009999,#001a1a); /* Standard syntax (must be last) */
+}
+#footer2{
+	
+	text-decoration:none;
+	border-left:1px solid #ffffff;
+	padding:10px;
+	color:white;
+
+}
+#footer2:hover{
+	color:orange;
+
+}
+#view2{
+	width:150px;
+	height:35px;
+	position:absolute;
+	background-color:#4CAF50;
+	color:black;
+	border-radius:10 px;
+	transition:background-color 1s ease 0s;
+}
+
+#view2:hover{
+background-color: #ffffcc;
+color:black;
+}
+#hey{
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#hey:hover {opacity: 0.7;}
+				/*puerto to baco*/
+#star{
+	left: 95px;
+	top: 690px;
+	position: absolute;
+}
+#star1{
+	left: 995px;
+	top:  690px;
+	position: absolute;
+}
+#star2{
+	left: 545px;
+	top:  690px;
+	position: absolute;
+}
+				/*calapan to victoria*/
+#star3{
+	left: 95px;
+	top:1100px;
+	position: absolute;
+}
+#star4{
+	left: 545px;
+	top:1100px;
+	position: absolute;
+}
+#star5{
+	left: 995px;
+	top:1100px;
+	position: absolute;
+}
+				/*pola pinamalayan*/
+#star6{
+	left: 95px;
+	top:1490px;
+	position: absolute;
+}
+#star7{
+	left: 545px;
+	top:1490px;
+	position: absolute;
+}
+#star8{
+	left: 995px;
+	top:1490px;
+	position: absolute;
+}
+				/*gloria to bongabong */
+#star9{
+	left: 95px;
+	top:1870px;
+	position: absolute;
+}
+#star10{
+	left: 545px;
+	top:1870px;
+	position: absolute;
+}
+#star11{
+	left: 995px;
+	top:1870px;
+	position: absolute;
+}
+				/*roxas to bulalacao*/
+#star12{
+	left: 95px;
+	top:2240px;
+	position: absolute;
+}
+#star13{
+	left: 545px;
+	top:2240px;
+	position: absolute;
+}
+#star14{
+	left: 995px;
+	top:2240px;
+	position: absolute;
+}
